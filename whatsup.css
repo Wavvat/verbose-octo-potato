@@ -1,0 +1,14 @@
+* {
+    font-family: sans-serif;
+        background-image: url("https://www.instagram.com/p/BwuhT3IBlUv/")
+}
+
+h1 {
+    color: salmon
+}
+
+li {
+    font-style: italic bold;
+    font-weight: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
